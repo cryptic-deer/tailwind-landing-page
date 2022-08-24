@@ -1,6 +1,6 @@
 # Tailwind Practice
 
-![](screenshot.png)
+<p align="center"><img src="screenshot.png" height="200"></p>
 
 ## Description
 
