@@ -1,6 +1,6 @@
 # Tailwind Practice
 
-<p align="center"><img src="screenshot.png" height="200"></p>
+<p align="center"><img src="screenshot.png" height="300"></p>
 
 ## Description
 
